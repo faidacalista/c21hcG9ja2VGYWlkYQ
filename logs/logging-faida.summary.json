@@ -1,0 +1,21 @@
+{
+  "runId": "run-20261025-064308Z-a4trtp",
+  "startedAt": "2026-10-25T06:43:08.219Z",
+  "finishedAt": "2026-10-25T06:43:12.586Z",
+  "elapsedMs": 4367,
+  "pid": 4071,
+  "events": 7,
+  "counts": {
+    "run.started": 1,
+    "api.request": 1,
+    "terminal.stats": 2,
+    "run.finished": 1,
+    "api.response": 1,
+    "mission.claimed": 1
+  },
+  "matches": [],
+  "lateEvents": 4,
+  "refreshed": true,
+  "exitCode": 0,
+  "exitReason": "process-exit"
+}
